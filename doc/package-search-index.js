@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.eclipse.wb.swt"},{"l":"org.swarwickdev.dashboardui"}];updateSearchResults();

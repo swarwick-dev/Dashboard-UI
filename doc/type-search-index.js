@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.swarwickdev.dashboardui","l":"dashboard_ui"},{"p":"org.eclipse.wb.swt","l":"SWTResourceManager"}];updateSearchResults();
